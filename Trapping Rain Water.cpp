@@ -31,13 +31,3 @@ int trap(vector<int> &height)
 
     return ans;
 }
-int main()
-{
-    vector<int> v;
-    for (&auto : i)
-    {
-
-        cin >> v[i];
-    }
-    cout << trap(*v);
-}
