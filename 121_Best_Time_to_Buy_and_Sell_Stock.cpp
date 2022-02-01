@@ -9,6 +9,7 @@ public:
             else if (prices[i] - minprice > maxprofit)
                 maxprofit = prices[i] - minprice;
         }
+        
         return maxprofit;
     }
 };
